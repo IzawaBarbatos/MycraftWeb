@@ -1,4 +1,6 @@
-# scaffold
+# MycraftWeb
+
+The official website of the mycraft.
 
 ## Project setup
 ```
